@@ -9,7 +9,10 @@
     justify-content: center;
     gap: 5rem;
     height: 30vh;
-    margin-bottom: 8rem;
+    margin-top:20rem;
+    margin-bottom: 20rem;
+    position: relative;
+   
 }
 
 .achievement{
