@@ -21,13 +21,11 @@ const Intro = () => {
             <button className="button i-button">Hire me</button>
             <div className="i-icons">
                 <a href="https://github.com/TedDBear/CS-Projects" target="_blank"><img id= 'github' src={Github} alt="Github logo"/></a>
-                
                 <a href="https://www.linkedin.com/in/stephen-craig-b85488253/" target="_blank"><img src={LinkedIn} alt="LinkedIn logo" id="linkedin"/></a>
             </div>
         </div>
         <div className="i-right">
             <img src={Picture} alt="Stephen Craig"/>
-            
         </div>
     </div>
   )

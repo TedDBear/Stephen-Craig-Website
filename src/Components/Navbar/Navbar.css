@@ -45,7 +45,7 @@
   .button:hover{
     background: white;
     cursor: pointer;
-    color: var(--darkPurple);
+    color: purple;
     border: 1px solid ;
   }
 

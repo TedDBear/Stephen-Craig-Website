@@ -4,9 +4,9 @@
   --black: #242d49;
   --gray: #788097;
   --blueCard: #b0eefc; 
-  --purple: rgb(195, 104, 252);
-  --darkPurple: rgba(248, 52, 232)
-  --boxShadow: 0px 19px 60px rgb(0 0 0 0.08);
+  --purple: rgba(195, 104, 252);
+  --darkPurple: rgba(248, 52, 232, .35);
+  --boxShadow: 2px 19px 60px rgb(0 0 0 0);
   --smboxShadow: -79px 51px 60px rgb(0 0 0 0.08);
 }
 
@@ -26,7 +26,7 @@
   left: 50vmin;
 }
 
-/*.App-header {
+.App-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -34,7 +34,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}*/
+}
 
 .button{
   border-radius: 34px;
@@ -43,10 +43,6 @@
   font-size: 16px;
   padding: 10px;
   background: linear-gradient(180deg, #4da1a9 26.71%, #D65780 99.36%);
-  box-shadow: 0px 8px 24px 3px rgba(248, 52, 232, 0.35);
+  box-shadow: 0px 8px 16px 3px rgba(248, 52, 232, 0.35);
 }
 
-@font-face {
-  font-family: Cocogoose;
-  src: url(./Cocogoose-Pro-Regular-trial.ttf);
-}

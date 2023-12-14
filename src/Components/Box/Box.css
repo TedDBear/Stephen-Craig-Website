@@ -1,0 +1,44 @@
+
+@font-face {
+    font-family: 'built titling';
+    src: url('./built titling sb.otf');
+}
+li{
+    list-style: none;
+}
+.box{
+    position: relative;
+    width: 15rem;
+    height: 25rem;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    align-items: center;
+    width: 10rem;
+    text-align: center;
+    background: rbga(255,255,255,0.26);
+    box-shadow: var(--boxShadow);
+    border: 7px solid;
+    padding: 4rem;
+
+}
+
+.box>:nth-child(1){
+    margin-top: -3rem;
+    width: 10rem;
+    height: 10rem;
+}
+
+.box spane:nth-of-type(1){
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 3rem;
+    font-family: 'built titling';
+    
+}
+
+.boxs>*{
+    position: absolute;
+}
+
