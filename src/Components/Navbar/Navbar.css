@@ -18,7 +18,7 @@
 
 .n-right{
     display: flex;
-    flex: 1;
+    flex: 1.25;
     align-items: center;
     justify-content: center;
     font-weight: 400;
@@ -32,7 +32,7 @@
     position: relative;
     left: 0%;
     display: flex;
-    gap:2rem;
+    gap:4rem;
     margin-right: 4rem;
     list-style: none;
   }
@@ -47,6 +47,12 @@
     cursor: pointer;
     color: purple;
     border: 1px solid ;
+  }
+
+  @media screen and (max-width: 480px) {
+    .n-list {
+      display: none;
+    }
   }
 
   

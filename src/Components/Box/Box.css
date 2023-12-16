@@ -42,6 +42,12 @@
     font-family: 'built titling';
 }
 
+@media screen and (max-width: 480px){
+    .box{
+      width: auto;
+    }
+  }
+
 
 
 

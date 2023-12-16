@@ -20,9 +20,7 @@ const Services = () => {
         <div className="s-left">
             <span>My Services</span>
             <spane>
-                lorem ispum big dummy text ldjkfkdose rkrjfj uigjkegojre gjrioeg jreiopg jreiop gjreiopg jiop fe feerfjefo ef efoef eof eof ef
-                <br/>
-                More dummy text
+            As a highly qualified software developer, I bring a wealth of expertise that sets me apart from the competition. First of all, my knowledge of various software development methodologies, including Agile, DevOps Scrum, Kaban, and Waterfall, demonstrates my ability to tailor approaches to project needs. Second, my commitment to ensuring the robustness of software through rigorous testing methodologies showcases your dedication to delivering high-quality products. Third, My adeptness in designing scalable, efficient software solutions and my passion for video and photo editing highlights my creativity and problem-solving skills. Lastly, I have a keen eye for detail and a commitment to quality assurance, which contributes significantly to the reliability and excellence of the software products I have developed. 
             </spane>
             <a href={Resume} download>
             <button className="button s-button">Download Resume</button>

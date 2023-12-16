@@ -14,7 +14,6 @@
 
 .c-left>:nth-child(1){
     color: var(--purple);
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
     font-size: 2.5rem;
     font-weight: bold;
 }
@@ -60,3 +59,16 @@ textarea{
     left: 22rem;
     opacity: 50%;
 }
+
+@media screen and (max-width: 480px) {
+    .contact-form{
+        padding: 0;
+        flex-direction: column;
+        gap: 5rem;
+        height: 40rem;
+    }
+    .c-right .user{
+        width: 16rem;
+    }
+
+}   

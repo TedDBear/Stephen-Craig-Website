@@ -9,10 +9,11 @@ const Footer = () => {
     <div className="footer">
       <img src={Wave} alt="" style={{ width: "100%" }} />
       <div className="f-content">
-        <span>robertduck096@gmail.com</span>
-        <div className="f-icons">
-        <img src={Github} alt="Github logo" style={{width:'177px', height:'98px'}}/>
-        </div>
+        <spane>Email: robertduck096@gmail.com
+          <br/>
+          <br/>
+          Phone: 703-999-8272
+        </spane>
       </div>
     </div>
   );

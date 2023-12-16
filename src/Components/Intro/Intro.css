@@ -62,13 +62,14 @@
 
 #github{
     position: relative;
-    width:177px;
-    height:98px;
+    left:70%;
+    width:100px;
+    height: 100px;
 }
 
 #linkedin{
     position: relative;
-    left: -100%;
+    left: 0%;
     width:100px;
     height: 100px;
 }
@@ -107,4 +108,12 @@
     left: 56%;
     filter: blur(72px);
   }
+
+  @media screen and (max-width: 480px) {
+    .Intro {
+      flex-direction: column;
+      gap: 7rem;
+      height: 64rem;
+    }
+}
 

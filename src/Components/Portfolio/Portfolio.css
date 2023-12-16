@@ -78,3 +78,13 @@
 .p-wrapper .swiper-pagination-bullet-active{
     background: var(--orange);
 }
+
+@media screen and (max-width: 480px){
+    .p-wrapper{
+        padding: 0;
+    }
+    .portfolio>img{
+        width: 70px;
+        height: 70px;
+    }
+  }

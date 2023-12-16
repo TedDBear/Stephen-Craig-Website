@@ -1,15 +1,9 @@
 import React from 'react';
 import "./Education.css";
 import Box from '../Box/Box';
-import {motion} from 'framer-motion'
 
 
 const Education = () => {
-
-  const transition = {
-    duration: 1,
-    type: "spring",
-  };
 
   return (
     <div className='education'>
@@ -27,7 +21,7 @@ const Education = () => {
                 bColor={"#FFD700"} 
                 tColor={"gold"}
                 tShadow={'0 1px 0 gold, 0 2px 0 gold, 0 3px 0 gold, 0 4px 0 gold, 0 5px 0 black, 0 6px 0 black, 0 7px 0 black, 0 8px 0 black, 0 9px 0 black, 0 10px 0 black, 0 11px 0 black, 0 12px 0 black, 0 20px 30px rgba(0, 0, 0, 0.5)'}
-                left={"20rem"}
+                left={"15rem"}
               />
 
               <Box
