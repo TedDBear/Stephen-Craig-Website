@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.css";
 import Wave from "../../img/wave.png";
-import Github from '../../img/Github-Logo.png';
+
 
 
 const Footer = () => {
