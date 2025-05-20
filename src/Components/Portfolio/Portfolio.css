@@ -58,11 +58,6 @@
     text-align: center;
 }
 
-.portfolio>span{
-    color: var(--gray);
-    text-align: center;
-}
-
 /* slider */
 .p-wrapper .swiper {
     width: 60%;
