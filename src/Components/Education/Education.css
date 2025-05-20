@@ -1,0 +1,20 @@
+.education{
+    padding: 0 3rem 0 3rem;
+    height: 30vh;
+    width:1650px;
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 50rem;
+}
+
+.title{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  color:  #0aac0a;
+  font-size: 5em;
+  text-shadow: 0 1px 0 #0aac0a, 0 2px 0 #0aac0a, 0 3px 0 #f6f740, 0 4px 0 #f6f740, 0 5px 0 #f6f740, 0 6px 0 #f6f740, 0 7px 0 #f6f740, 0 8px 0 #f6f740, 0 9px 0 blue, 0 10px 0 blue, 0 11px 0 blue, 0 12px 0 blue, 0 20px 30px rgba(0, 0, 0, 0.5);
+}

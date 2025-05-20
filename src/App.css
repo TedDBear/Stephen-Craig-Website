@@ -1,0 +1,56 @@
+:root{
+  --yellow: #F5C32C;
+  --orange : #fca61f;
+  --black: #242d49;
+  --gray: #788097;
+  --blueCard: #b0eefc; 
+  --purple: rgba(195, 104, 252);
+  --darkPurple: rgba(248, 52, 232, .35);
+  --boxShadow: 2px 19px 60px rgb(0 0 0 0);
+  --smboxShadow: -79px 51px 60px rgb(0 0 0 0.08);
+}
+
+.App {
+  padding: 0.5rem 3.5rem;
+  overflow: hidden;
+  color: var(--black);
+  /*text-align: center;*/
+}
+
+.App-logo {
+  min-height: 10rem;
+  max-height: 100rem;
+  pointer-events: none;
+  position: relative;
+  bottom: 5vmin;
+  left: 50vmin;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.button{
+  border-radius: 34px;
+  border: none;
+  color:white;
+  font-size: 16px;
+  padding: 10px;
+  background: linear-gradient(180deg, #4da1a9 26.71%, #D65780 99.36%);
+  box-shadow: 0px 0px 16px 5px rgba(248, 52, 232, 0.35);
+}
+
+@media screen and (max-width: 480px) {
+    .App {
+      padding: 0.5rem 1rem;
+
+    }
+  }
+
+
