@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Stephen-Craig-Website/static/css/main.c0ec4ac4.css",
+    "main.js": "/Stephen-Craig-Website/static/js/main.502ecf1d.js",
+    "static/js/787.572baf07.chunk.js": "/Stephen-Craig-Website/static/js/787.572baf07.chunk.js",
+    "static/media/Website-Picture.png": "/Stephen-Craig-Website/static/media/Website-Picture.89ff2b889aaa9fb31f36.png",
+    "static/media/Sprout.gif": "/Stephen-Craig-Website/static/media/Sprout.a1683a0c3f5f663c1774.gif",
+    "static/media/Computer Comparing Documents.png": "/Stephen-Craig-Website/static/media/Computer Comparing Documents.394f5f10292ced970d77.png",
+    "static/media/gif.gif": "/Stephen-Craig-Website/static/media/gif.3713f11c8e210066678e.gif",
+    "static/media/HomePage.JPG": "/Stephen-Craig-Website/static/media/HomePage.ae01ff277eea18b70770.JPG",
+    "static/media/Stephen Craig Master Resume.pdf": "/Stephen-Craig-Website/static/media/Stephen Craig Master Resume.328951f2a1e889711b2b.pdf",
+    "static/media/UI-UX design.png": "/Stephen-Craig-Website/static/media/UI-UX design.e8a66fc625f8f9bc35fb.png",
+    "static/media/built titling sb.otf": "/Stephen-Craig-Website/static/media/built titling sb.6347f792eecea37e9d5b.otf",
+    "static/media/Linkedin-logo.png": "/Stephen-Craig-Website/static/media/Linkedin-logo.7ab7f69ae322f5a4a1d5.png",
+    "static/media/UX person.png": "/Stephen-Craig-Website/static/media/UX person.c172ad84755413935412.png",
+    "static/media/video editing icon.png": "/Stephen-Craig-Website/static/media/video editing icon.119c9c3a5ccf178392ea.png",
+    "static/media/wave.png": "/Stephen-Craig-Website/static/media/wave.fdfef4069ad90f610990.png",
+    "index.html": "/Stephen-Craig-Website/index.html",
+    "main.c0ec4ac4.css.map": "/Stephen-Craig-Website/static/css/main.c0ec4ac4.css.map",
+    "main.502ecf1d.js.map": "/Stephen-Craig-Website/static/js/main.502ecf1d.js.map",
+    "787.572baf07.chunk.js.map": "/Stephen-Craig-Website/static/js/787.572baf07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0ec4ac4.css",
+    "static/js/main.502ecf1d.js"
+  ]
+}
