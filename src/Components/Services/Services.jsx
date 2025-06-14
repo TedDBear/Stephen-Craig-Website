@@ -38,7 +38,7 @@ const Services = () => {
               <Card
               icon = {vidEdit}
               heading = {'Design'}
-              detail = {'Adobe Premiere Pro, Photoshop, Figma, Audacity'}
+              detail = {'Adobe Premiere Pro, Photoshop, Figma, Canva, Audacity'}
               />
            </div>
            </motion.div>
