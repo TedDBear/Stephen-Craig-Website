@@ -4,6 +4,7 @@ import Card from "../Card/Card.jsx";
 import vidEdit from "../../img/video editing icon.png";
 import Resume from "./Stephen Craig Master Resume.pdf";
 import UiUx from "../../img/UX person.png";
+import robot from "../../img/robot head.png";
 import softwareDev from "../../img/UI-UX design.png";
 import { motion } from "framer-motion";
 
@@ -36,9 +37,9 @@ const Services = () => {
           transition={transition}>
            <div>
               <Card
-              icon = {vidEdit}
-              heading = {'Design'}
-              detail = {'Adobe Premiere Pro, Photoshop, Figma, Canva, Audacity'}
+              icon = {robot}
+              heading = {'AI Engineering'}
+              detail = {'RAG Models, Machine Learning, LLMs, Vector Databases, Fine Tuning, Model Evaluation'}
               />
            </div>
            </motion.div>
@@ -65,6 +66,18 @@ const Services = () => {
               icon = {UiUx}
               heading = {'UI/UX'}
               detail = {'Research, Analysis, Visualization, Design, Iteration, Empathy'}
+              />
+           </div>
+           </motion.div>
+            <motion.div 
+           initial={{top: '31rem', left: '-12rem'}}
+           whileInView={{left:'-5rem'}}
+           transition={transition}>
+           <div>
+             <Card
+              icon = {vidEdit}
+              heading = {'Design'}
+              detail = {'Adobe Premiere Pro, Photoshop, Figma, Canva, Audacity'}
               />
            </div>
            </motion.div>

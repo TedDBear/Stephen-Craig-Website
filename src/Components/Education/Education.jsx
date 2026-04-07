@@ -30,7 +30,7 @@ const Education = () => {
                 GPA={"4.0"}
                 major={"Bachelors in Computer Science"}
                 acheviment1={"UT Tyler Honors College"}
-                acheviment2={"National Society of Leadership & Success"}
+                acheviment2={"Outstanding Computer Science Student Award"}
                 imgUrl={"https://championfiresecurity.com/wp-content/uploads/2022/12/ut_stem-scaled.jpg"}
                 imgPos={"85%"}
                 bColor={"blue"} 

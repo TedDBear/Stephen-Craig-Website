@@ -7,7 +7,7 @@ import "swiper/css/pagination";
 import LexiCrunch from '../../img/gif.gif';
 import Sprout from '../../img/Sprout.gif';
 import HomePage from '../../img/HomePage.JPG';
-import SalesMind from 'img/SalesMind AI Thunbnail.png';
+import SalesMind from '../../img/SalesMind AI Thunbnail.png';
 import Computer_Comparing_Documents from '../../img/Computer Comparing Documents.png';
 
 const Portfolio = () => {
