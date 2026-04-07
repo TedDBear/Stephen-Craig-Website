@@ -7,10 +7,16 @@ import "swiper/css/pagination";
 import LexiCrunch from '../../img/gif.gif';
 import Sprout from '../../img/Sprout.gif';
 import HomePage from '../../img/HomePage.JPG';
+import SalesMind from 'img/SalesMind AI Thunbnail.png';
 import Computer_Comparing_Documents from '../../img/Computer Comparing Documents.png';
 
 const Portfolio = () => {
   const projects = [
+    {
+      img: SalesMind,
+      name: "SalesMind AI",
+      description: "SalesMind AI is an innovative sales automation tool that leverages machine learning to provide personalized sales insights and recommendations. It streamlines the sales process by automating lead qualification, follow-up tasks, and performance analysis."
+    },
     {
       img: Sprout,
       name: "Sprout",
