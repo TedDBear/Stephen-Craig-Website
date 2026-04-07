@@ -21,7 +21,7 @@ const Services = () => {
         <div className="s-left">
             <span>My Services</span>
             <spane>
-            As a highly qualified software developer, I bring a wealth of expertise that sets me apart from the competition. First of all, my knowledge of various software development methodologies, including Agile, DevOps Scrum, Kaban, and Waterfall, demonstrates my ability to tailor approaches to project needs. Second, my commitment to ensuring the robustness of software through rigorous testing methodologies showcases your dedication to delivering high-quality products. Third, My adeptness in designing scalable, efficient software solutions and my passion for video and photo editing highlights my creativity and problem-solving skills. Lastly, I have a keen eye for detail and a commitment to quality assurance, which contributes significantly to the reliability and excellence of the software products I have developed. 
+            As a highly qualified software developer, I bring a wealth of expertise that sets me apart from the competition. I build fast, reliable, and scalable software solutions across the full stack. My work spans modern web development, AI engineering, cloud deployment, and workflow automation. I specialize in creating responsive applications with React, Next.js, and TypeScript; architecting backend systems with Node.js, FastAPI, and Supabase; and deploying secure, production-ready environments on AWS, Azure, and Docker. I also design automated workflows, integrate third‑party services, and develop AI‑powered tools — from chatbots to lead‑scoring engines — that streamline operations and enhance user experience. With a strong foundation in software engineering principles, I am committed to delivering high‑quality code and innovative solutions that drive business success.
             </spane>
             <a href={Resume} download>
             <button className="button s-button">Download Resume</button>
@@ -52,7 +52,7 @@ const Services = () => {
               <Card
               icon = {softwareDev}
               heading = {'Software Development'}
-              detail = {'C++, Python, Java, HTML, CSS, JavaScript, React, SQL'}
+              detail = {'JavaScript, Typescript, Python, React, C++, Java, SQL, Docker, Git, Linux, AWS'}
               />
            </div>
            </motion.div>
